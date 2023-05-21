@@ -1,1 +1,3 @@
 # Template-for-car-services
+
+**Problem Statement** : Create a tool that makes it easier to create web pages online without the need to install any HTML editor-based software and that is also accessible to novice users (no prior HTML knowledge is required). This module's goal is to streamline the process of coordinating customer and business activity wherein a business can sell its services and a customer can purchase those services. To create and build a versatile, user-friendly template for vehicle services that allows the admin to access a panel and choose how to alter the website's features and user interaction. To enable the user to interact with the numerous options offered on the website, the website must be easily accessible and usable.
